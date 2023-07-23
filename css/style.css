@@ -37,7 +37,6 @@ li {
     width: 100%;
     text-align: center;
     margin: 0 auto;
-    justify-content: center;
 }
 
 .row {
@@ -186,7 +185,6 @@ li {
     font-family: domain;
     color: var(--content_color);
     line-height: 1;
-    justify-content: space-evenly;
 }
 
 .slide_middle {
@@ -201,7 +199,7 @@ li {
     font-size: 7rem;
     text-transform: uppercase;
     font-family: canopee;
-    letter-spacing: 0.5;
+    letter-spacing: 0.5px;
     font-weight: 500;
 }
 
@@ -401,7 +399,6 @@ li {
 
 .website .ticket {
     text-align: center;
-    justify-content: center;
 }
 
 .website .ticket img {
@@ -748,7 +745,6 @@ li {
     font-size: 8.78rem;
     text-transform: uppercase;
     font-family: canopee;
-    color: var(-);
 }
 
 
